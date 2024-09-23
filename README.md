@@ -47,7 +47,7 @@ O projeto está dividido em diversos componentes para garantir uma separação d
 
 1. Clone o repositório:
    ```bash
-   [git clone https://github.com/seu_usuario/projeto_chatbot.git](https://github.com/Alexandrelimax/backend_dialogflowcx.git)
+   https://github.com/Alexandrelimax/backend_dialogflowcx.git
    ```
 ### Instale as dependências:
 
